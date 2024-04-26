@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+}
+
+p.blue {
+    background-color: blue;
+    color: white;
+}
+
+p#orange {
+    color: orange;
+}
+
+center {
+    text-align: center;
+}
