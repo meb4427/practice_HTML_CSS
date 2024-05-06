@@ -1,0 +1,11 @@
+div {
+    background: #0bd;
+    width: 20%;
+    height: 300px;
+    justify-content: center;
+}
+
+p {
+    width: 50%;
+    text-align: right;
+}
