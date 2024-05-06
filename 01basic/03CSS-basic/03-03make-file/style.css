@@ -1,6 +1,8 @@
 @charset "utf-8";
 body {
-    background-color: #ffeddb;
+    background-image: url(images/bg.png);
+    background-repeat: no-repeat;
+    background-position: 30px 80px;
 }
 
 h1 {
