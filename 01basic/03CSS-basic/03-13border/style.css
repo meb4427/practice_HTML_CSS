@@ -1,0 +1,15 @@
+p.thick {
+    border-style: solid;
+    border-width: thick;
+}
+
+p.medium {
+    border-top-style: solid;
+    border-width: medium;
+}
+
+p.thin {
+    border-style: solid;
+    border-width: 1px 4px 8px 16px;
+    border-color: tomato;
+}
