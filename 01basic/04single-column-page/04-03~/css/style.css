@@ -57,11 +57,14 @@ img {
     color: #fff;
     border-radius: 8px;
     padding: .75rem 1.5rem;
-    transition: .5s 3s;
+    transition: 3s;
 }
 
 .btn:hover {
     background-color: #0090aa;
+    scale: 1.2;
+    /* rotate: -30deg; */
+    translate: 100px;
 }
 
 .page-header {
