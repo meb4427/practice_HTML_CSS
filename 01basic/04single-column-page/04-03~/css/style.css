@@ -27,6 +27,13 @@ img {
     font-weight: normal;
 }
 
+.page-title {
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 2rem;
+    line-height: 1.4;
+}
+
 .page-header {
     padding-top: .5rem;
 }
@@ -49,4 +56,14 @@ img {
 
 .main-nav a:hover {
     color: #0bd;
+}
+
+.cover {
+    background-size: cover;
+    background-position: center bottom;
+    height: 800px;
+}
+
+.cover-home {
+    background-image: url(../images/cover-home-s.webp);
 }
