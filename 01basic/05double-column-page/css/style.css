@@ -121,6 +121,10 @@ img {
     background-image: url(../images/cover-news-s.webp);
 }
 
+.cover-menu {
+    background-image: url(../images/cover-menu-s.webp);
+}
+
 /* 記事部分 */
 .post {
     margin-bottom: 3rem;
